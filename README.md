@@ -33,21 +33,10 @@ O desafio foi composto por 4 questões distintas, cada uma exigindo a aplicaçã
 
 As **respostas obtidas da IA** para cada uma das questões, juntamente com o **prompt estratégico** utilizado, estão documentadas através de prints de tela.
 
-Você pode visualizar o resultado para cada pergunta clicando nos links abaixo:
+Você pode visualizar o resultado para cada pergunta clicando nas pastas.
 
-* [Resposta da Questão 1 (Ray Tracing)](.Rocketseat-meu-projeto/Questão1/)
-* [Resposta da Questão 2 (Decomposição Numérica)](./caminho/para/o/print_q2.png)
-* [Resposta da Questão 3 (Maquiavel em As Crônicas de Gelo e Fogo)](./caminho/para/o/print_q3.png)
-* [Resposta da Questão 4 (Endpoint FastAPI)](./caminho/para/o/print_q4.png)
-
-***Observação:*** *Substitua o caminho* `./caminho/para/o/print_qx.png` *pelo local real dos seus arquivos de imagem no repositório.*
 
 ---
 
-## 📝 Licença
 
-Este projeto está sob a licença [Nome da Licença, ex: MIT].
-
----
-
-Feito com 💙 e ☕ por [Seu Nome ou Nickname]
+Feito com 💙 e ☕ por abeatrizz
